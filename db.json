@@ -1,0 +1,62 @@
+[
+  {
+    "name": "The Coach Makers Arms",
+    "region": "West Central",
+    "borough": "City of Westminster",
+    "subregion": "Marylebone",
+    "cuisine": ["English"],
+    "tags": ["Cocktails", "Roast"],
+    "description": "Genteel, stalwart venue serving local classics & weekend roast, plus craft cocktails & draught beer.",
+    "type": "Pub",
+    "address": "88 Marylebone Ln, London W1U 2PZ",
+    "dogsAllowed": "inside"
+  },
+  {
+    "name": "Lost Boys Pizza",
+    "region": "North London",
+    "borough": "Camden",
+    "subregion": "Camden",
+    "cuisine": [""],
+    "tags": ["Cocktails", "Pizza"],
+    "description": "A vampire-themed pizzeria near Mornington Crescent. Pay this restaurant a visit if you're a fan of 80s nostalgia, quirky pizza toppings and a touch of ridiculousness. The venue also boasts a basement absinthe bar, Croque Monsieur.",
+    "type": ["Restaurant", "Cocktail bar"],
+    "address": "245 Eversholt St, London NW1 1BA",
+    "dogsAllowed": "inside"
+  },
+  {
+    "name": "Abuelo",
+    "region": "Central London",
+    "borough": "Camden",
+    "subregion": "Covent Garden",
+    "cuisine": ["Australian", "South American"],
+    "tags": ["Organic"],
+    "description": "Organic, farm-to-table cafe fare, espresso and coffee cocktails offered in unique, cosy quarters. Meet resident pup Annie the Goldendoodle. Dogs get water on arrival.",
+    "type": ["Restaurant", "Bar"],
+    "address": "26 Southampton St, London WC2E 7RS",
+    "dogsAllowed": "inside"
+  },
+  {
+    "name": "Mercato Metropolitano",
+    "region": "South London",
+    "borough": "Southwark",
+    "subregion": "Elephant & Castle",
+    "cuisine": ["Miscellaneous"],
+    "tags": ["Street food", ],
+    "description": "Massive, airy market offering a range of street fare from Italian to Vietnamese, plus cocktails.",
+    "type": ["Food market"],
+    "address": "42 Newington Causeway, London SE1 6DR",
+    "dogsAllowed": "inside"
+  },
+  {
+    "name": "40 Dean Street",
+    "region": "Central London",
+    "borough": "City of Westminster",
+    "subregion": "Soho",
+    "cuisine": ["Italian"],
+    "tags": ["Italian"],
+    "description": "Italian staples and set menu options served in a homely dining room.",
+    "type": ["Restaurant"],
+    "address": "40 Dean St, London W1D 4PX",
+    "dogsAllowed": "inside"
+  }
+]
