@@ -1,4 +1,4 @@
-[
+{ "data": [
   {
     "name": "The Coach Makers Arms",
     "region": "West Central",
@@ -60,3 +60,4 @@
     "dogsAllowed": "inside"
   }
 ]
+}
